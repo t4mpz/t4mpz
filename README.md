@@ -1,5 +1,14 @@
-### Hi there 👋
-
+### Just another schizo programmer
+- Brazilian 🇧🇷
+- Age: Not today feds ㊙️
+- Linux user [Debian/arch] 🐧
+- Uses	
+	- Python 🐍
+	- C++/C 🤓
+	- PHP 🐘 (May God have mercy on me)
+	- Shell Script 
+	- Java
+	- ~~Crack~~ 
 <!--
 **t4mpz/t4mpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
