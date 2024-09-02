@@ -5,7 +5,8 @@
 	- Python 🐍
 	- C++/C 🤓
 	- PHP 🐘 (May God have mercy on me)
-	- Shell Script 
+	- Shell Script
+	- JS/TS
 	- Java
 	- ~~Crack~~ 
 
