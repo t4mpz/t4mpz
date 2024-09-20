@@ -1,14 +1,18 @@
 ### Just another schizo programmer
 - Age: Not today feds ㊙️
 - Linux user [Debian/arch] 🐧
-- Uses	
+- I use	
 	- Python 🐍
 	- C++/C 🤓
 	- PHP 🐘 (May God have mercy on me)
 	- Shell Script
 	- JS/TS
 	- Java
-	- ~~Crack~~ 
+ 	- Rust (Still learning)
+  	- GO
+  	- C#
+	- ~~Crack~~
+ - I just do my silly best
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=t4mpz&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
