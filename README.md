@@ -2,7 +2,6 @@
 - Age: Not today feds ㊙️
 - Linux user [Debian/arch] 🐧
 - I use	
-	- Python 🐍
 	- C++/C 🤓
 	- PHP 🐘 (May God have mercy on me)
 	- Shell Script
@@ -11,6 +10,7 @@
  	- Rust (Still learning)
   	- GO
   	- C#
+  	- Scala
 	- ~~Crack~~
  - I just do my silly best
 
