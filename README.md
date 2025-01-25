@@ -2,17 +2,16 @@
 - Age: Not today feds ㊙️
 - Linux user [Debian/Endeavour/Void] 🐧
 - I use	
-	- C++/C 🤓
-	- PHP 🐘 (May God have mercy on me)
+	- C/C++
 	- Shell Script
 	- JS/TS
 	- Java
- 	- Rust (Still learning)
+ 	- Rust
   	- GO
   	- C#
   	- Scala
 	- ~~Crack~~
- - I just do my silly best
+ - I just do my silly best ^^
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=t4mpz&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
