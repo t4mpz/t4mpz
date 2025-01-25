@@ -1,6 +1,6 @@
 ### Just another schizo programmer
 - Age: Not today feds ㊙️
-- Linux user [Debian/arch] 🐧
+- Linux user [Debian/Endeavour/Void] 🐧
 - I use	
 	- C++/C 🤓
 	- PHP 🐘 (May God have mercy on me)
